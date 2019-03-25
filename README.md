@@ -18,4 +18,21 @@ des sites concurrents:
 - http://getskeleton.com/
 
 Boostrap fonctionne avec des grilles: <br/>
-![alt grid bootstrap](https://i.ytimg.com/vi/tX_4HTQ6Pgc/maxresdefault.jpg)
+![alt grid bootstrap](https://i.ytimg.com/vi/tX_4HTQ6Pgc/maxresdefault.jpg)<br/>
+
+![alt taille des contenus](https://designmodo.com/wp-content/uploads/2015/09/8.jpg)<br/>
+
+** On note de nouvelles tailles pour les contenus: **
+``$grid-breakpoints: (``<br/>
+  `` xs: 0px,``<br/>
+  `` sm: 576px,``<br/>
+  `` md: 768px,``<br/>
+  `` lg: 992px,``<br/>
+  `` xl: 1200px``<br/>
+``) !default;``<br/>
+
+### Apperçu de la structure des grilles:
+
+![alt bootstrap structure](https://dzone.com/storage/temp/891159-dzone4.jpg)<br/>
+
+- la documentation est ici: https://getbootstrap.com/docs/4.0/layout/grid/
