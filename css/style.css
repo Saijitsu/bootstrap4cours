@@ -1,29 +1,12 @@
-.black,
-.white,
-.blue {
-    font-weight: bolder;
-    font-family: Georgia, 'Times New Roman', Times, serif
-}
-
-.black h1,
-.white h1,
-.blue h1 {
+.white h1 {
     font-size: 1.2em;
-}
-
-.black {
-    color: rgb(39, 38, 38);
-    text-shadow: aliceblue 2px 2px 2px
 }
 
 .white {
     color: rgb(255, 255, 255);
-    text-shadow: black 2px 2px 2px
-}
-
-.blue {
-    color: rgb(137, 171, 243);
-    text-shadow: black 2px 2px 2px
+    text-shadow: black 2px 2px 2px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .marketing {
